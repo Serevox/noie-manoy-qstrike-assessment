@@ -40,6 +40,8 @@ To run this project locally, follow these steps:
 
    Open [http://localhost:3000](http://localhost:3000)/[http://localhost:5173](http://localhost:5173) to view it in the browser.
 
+   Deployed using Vercel - see more: [https://qstrike-assessment.vercel.app/](https://qstrike-assessment.vercel.app/)
+
 ## Usage
 
 - Select a color from the list on the left panel to preview it on the right panel.
