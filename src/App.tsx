@@ -3,6 +3,7 @@
 1. React using Vite
 2. Typescript XML 
 3. TailwindCSS
+4. Axios 
 
 */
 
