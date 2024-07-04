@@ -22,8 +22,8 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone [<repository-url>](https://github.com/Serevox/noie-manoy-qstrike-assessment.git)
-   cd color-preview-app
+   git clone https://github.com/Serevox/noie-manoy-qstrike-assessment.git
+   cd noie-manoy-qstrike-assessment
    ```
 
 2. Install dependencies:
