@@ -1,7 +1,3 @@
-Creating an extensive `README.md` file for your project involves providing clear and detailed information about the project, its purpose, dependencies, and how to use it. Here's a structured `README.md` based on your provided code:
-
----
-
 # Color Preview App
 
 This project is a web application built with React using Vite, TypeScript XML, TailwindCSS, and Axios. It fetches color data from an API and allows users to preview colors and view their details.
@@ -58,10 +54,4 @@ This project uses the Prolook Color API (`https://api.prolook.com/api/colors/pro
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-You can customize and expand this `README.md` further based on additional features, setup instructions, or specific guidelines for contributors. Adjust URLs, placeholders, and sections as per your project's actual details.
