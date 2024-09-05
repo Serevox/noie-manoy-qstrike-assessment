@@ -52,8 +52,4 @@ To run this project locally, follow these steps:
 
 This project uses the Prolook Color API (`https://api.prolook.com/api/colors/prolook`) to fetch color data. Ensure your network connection is active to fetch the colors successfully.
 
-## Contributions
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
 
